@@ -41,14 +41,18 @@
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/material": "^5.11.11",
+    "axios": "^1.7.7",
     "gas-client": "^1.1.1",
+    "intuit-oauth": "^4.1.2",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.4.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.26.2",
     "react-transition-group": "^4.4.2"
   },
   "devDependencies": {
+    "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.24.6",
     "@google/clasp": "^2.4.2",
     "@types/expect-puppeteer": "^5.0.0",

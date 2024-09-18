@@ -1,8 +1,7 @@
+/* eslint-disable prettier/prettier */
 import { createRoot } from 'react-dom/client';
-import SheetEditor from './components/SheetEditor';
-
-import './styles.css';
+import Home from './components/Home';
 
 const container = document.getElementById('index');
 const root = createRoot(container);
-root.render(<SheetEditor />);
+root.render(<Home />);
